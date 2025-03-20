@@ -2,14 +2,13 @@
 
 # Object-Oriented Programming (Java) - Exercise List
 
-## Overview
 This repository contains solutions to Object-Oriented Programming (Java) exercises from the Computational Language Paradigms (CLP) 2024.2 course, demonstrating best practices such as polymorphism, generics, exception handling, and design patterns.
 
 ## Repository Structure
-- `Question1/` - Cinema queue implementation using polymorphism and generics.
-- `Question2/` - Coffee shop product management system with inheritance and exception handling.
-- `Question3/` - Smart home system using interfaces.
-- `Question4/` - Game monster behavior implementation using composition.
+- `Q1/` - Cinema queue implementation using polymorphism and generics.
+- `Q2/` - Coffee shop product management system with inheritance and exception handling.
+- `Q3/` - Smart home system using interfaces.
+- `Q4/` - Game monster behavior implementation using composition.
 
 ## How to Run
 Each folder contains a `Main.java` file that can be executed in a Java development environment.
