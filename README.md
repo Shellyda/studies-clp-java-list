@@ -2,7 +2,7 @@
 
 # Object-Oriented Programming (Java) - Exercise List
 
-This repository contains solutions to Object-Oriented Programming (Java) exercises from the Computational Language Paradigms (CLP) 2024.2 course, demonstrating best practices such as polymorphism, generics, exception handling, and design patterns.
+This repository contains solutions to Object-Oriented Programming (Java) exercises from the Computational Language Paradigms (CLP) 2024.2 course at the Center for Informatics (CIn), Federal University of Pernambuco (UFPE), demonstrating best practices such as polymorphism, generics, exception handling, and design patterns.
 
 ## Repository Structure
 - `Q1/` - Cinema queue implementation using polymorphism and generics.
